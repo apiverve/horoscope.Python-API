@@ -67,15 +67,15 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "color": "green",
+    "color": "purple",
     "compatibility": [
       "leo",
       "sagittarius"
     ],
-    "horoscope": "Today is a day to focus on your inner self, Aries. Take some time to reflect on your emotions and address any unresolved issues. Trust your intuition and don't be afraid to express your feelings openly. Remember to take care of yourself both mentally and physically. You may also feel a strong urge to connect with nature or spend time outdoors. Embrace this opportunity to ground yourself and find peace in the beauty of the natural world.",
-    "luckyNumber": 62,
-    "luckyTime": "10:00 AM",
-    "mood": "stressed",
+    "horoscope": "Today, you may feel a strong urge to expand your horizons and explore new opportunities. It's a great time to step out of your comfort zone and try something you've never done before. Trust your intuition and follow your instincts. Remember to stay grounded and maintain a sense of balance in all aspects of your life.",
+    "luckyNumber": 1,
+    "luckyTime": "1:00 PM",
+    "mood": "bored",
     "sign": "aries",
     "zodiac": {
       "element": "fire",
@@ -110,7 +110,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
